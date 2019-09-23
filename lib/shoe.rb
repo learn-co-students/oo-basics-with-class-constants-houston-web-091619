@@ -15,3 +15,5 @@ class Shoe
   end
 
 end
+
+puts Shoe.all
